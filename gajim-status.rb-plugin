@@ -1,0 +1,9 @@
+[RB Plugin]
+Loader=python
+Module=gajim-status
+IAge=1
+Name=Gajim Status Changer
+Description=Change Gajim status message according to what you are listening now.
+Authors=Pierpaolo Follia <pfollia@gmail.com>
+Copyright=Copyright © 2006 Pierpaolo Follia
+Website=http://madchicken.altervista.org/tech
